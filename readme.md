@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/4rjav/4rjav/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
+
 
 ---
 
