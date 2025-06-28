@@ -92,7 +92,7 @@ _(Particle.js backgrounds and animations to be added in GitHub Pages site using 
 
 ### 📫 Reach Me
 
-- 📧 arjav.abjith@email.com
+- 📧 arjav2005abjith@email.com
 - 🌐 [linkedin.com/in/4rjav](https://linkedin.com/in/4rjav)
 - 🧠 [Your future personal site link]
 
