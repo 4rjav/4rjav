@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=480&lines=Code+with+Purpose.;Think+Boldly.+Build+Relentlessly.;From+Ideas+to+Impact." alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
 ---
 
 ### 🌍 About Me
