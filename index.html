@@ -1,0 +1,87 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Arjav Abjith | Elite Profile</title>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Fira Code', monospace;
+      background-color: #0d1117;
+      color: #c9d1d9;
+      overflow-x: hidden;
+    }
+    #particles-js {
+      position: fixed;
+      width: 100%;
+      height: 100%;
+      z-index: 0;
+      top: 0;
+      left: 0;
+    }
+    .container {
+      position: relative;
+      z-index: 2;
+      max-width: 900px;
+      margin: auto;
+      padding: 2rem;
+      text-align: center;
+    }
+    h1, h2, h3 {
+      color: #00f7ff;
+    }
+    .project {
+      margin: 2rem 0;
+      padding: 1rem;
+      background-color: rgba(255,255,255,0.05);
+      border-radius: 12px;
+    }
+    .project img.small-icon {
+      width: 50px;
+      height: 50px;
+      object-fit: contain;
+      border-radius: 5px;
+      margin-bottom: 0.5rem;
+      animation: pulse 2s infinite ease-in-out;
+    }
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 0.8; }
+      50% { transform: scale(1.2); opacity: 1; }
+    }
+    .quote {
+      margin-top: 2rem;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <div id="particles-js"></div>
+  <div class="container">
+    <h1>🚀 Arjav Abjith — Building Tomorrow, Today</h1>
+    <h3>Real-world problem solver | Deep thinker | Tech builder</h3>
+
+    <div class="project">
+      <img src="assets/bharatpulse.png" alt="BharatPulse icon" class="small-icon">
+      <h2>🇮🇳 BharatPulse</h2>
+      <p>The Aadhaar-verified civic platform empowering public discourse with AI & identity.</p>
+    </div>
+
+    <div class="project">
+      <h2>🔌 FindMyPlug</h2>
+      <p>Your intelligent EV charging navigator. Smart filters, real-time access, and futuristic mobility.</p>
+    </div>
+
+    <div class="quote">
+      "The mind that solves problems is more powerful than the hand that follows instructions."<br />— Arjav Abjith
+    </div>
+  </div>
+
+  <script>
+    particlesJS.load('particles-js', 'https://cdn.jsdelivr.net/gh/VincentGarreau/particles.js/particles.json');
+  </script>
+</body>
+</html>
