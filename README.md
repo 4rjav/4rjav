@@ -1,4 +1,3 @@
-````md 
 <h1 align="center">🚀 Arjav Abjith — Building Tomorrow, Today</h1>
 <h3 align="center">Real-world problem solver | Deep thinker | Tech builder</h3>
 
@@ -9,7 +8,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/4rjav/4rjav/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
-
 
 ---
 
@@ -73,13 +71,15 @@
 
 > Generated with [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
-```md
-<img src="https://raw.githubusercontent.com/4rjav/4rjav/main/github-metrics.svg" />
-````
+<p align="center">
+  <img src="https://raw.githubusercontent.com/4rjav/4rjav/main/github-metrics.svg" />
+</p>
 
 ---
 
 ### 📫 Reach Me
+
+<!-- Add your contact links or social badges here -->
 
 ---
 
@@ -87,5 +87,3 @@
 
 > *"The mind that solves problems is more powerful than the hand that follows instructions."* — Arjav Abjith
 
-```
-```
