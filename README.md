@@ -33,6 +33,18 @@
 - 🤖 Built-in AI assistant (Vyom) for civic queries, news, coding, and culture.
 - 🎯 Personalized narratives & regional tag feeds.
 
+<details>
+  <summary>📄 View Full BharatPulse Concept Paper (PDF)</summary>
+
+  [👉 Click to Read the BharatPulse Full PDF](./BharatPlus%20Concept.pdf)
+
+  <br>
+
+  India's verified AI-powered civic-tech platform — explained in full.  
+  Covers vision, problem, roadmap, features, tech stack, revenue model, and more.
+
+</details>
+
 #### ⚡ FindMyPlug
 > A real-time EV Charging Navigator app revolutionizing **charging discoverability**.
 
