@@ -27,8 +27,6 @@
 #### 🔥 BharatPulse
 > India's first **Aadhaar-verified AI-powered social platform** for real political discourse, civic truth, and grassroots activism.
 
-<img src="https://raw.githubusercontent.com/4rjav/4rjav/main/assets/bharatpulse.png" alt="BharatPulse Poster" width="100%"/>
-
 - 🇮🇳 Verified voices only — Real India speaks.
 - 🤖 Built-in AI assistant (Vyom) for civic queries, news, coding, and culture.
 - 🎯 Personalized narratives & regional tag feeds.
